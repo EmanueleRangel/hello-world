@@ -1,2 +1,2 @@
 # hello-world
-Repositório criado como parte de uma atividade da universidade
+Repositório criado como parte da Atividade 1 da disiciplina Tópicos Especiais da *UniCesumar*.
